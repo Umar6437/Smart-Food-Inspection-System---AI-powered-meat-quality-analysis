@@ -1,1 +1,1 @@
-# Smart-Food-Inspection-System---AI-powered-meat-quality-analysi
+# Smart-Food-Inspection-System---AI-powered-meat-quality-analysis
